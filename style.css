@@ -228,10 +228,8 @@ header .main aside button:hover {
     z-index: -1;
 }
 
-.x {
-    font-size: 8rem;
-    line-height: 0.8;
-    margin: 20px 0;
+.x{
+    font-size: 160px;
 }
 
 section {
